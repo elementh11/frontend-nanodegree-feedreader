@@ -1,11 +1,5 @@
 # Feed Reader Testing Project
 
-## Table of Contents
-
-* [Overview](#project overview)
-* [How to run](#how to run)
-* [Contributing](#contributing)
-
 ## Project Overview
 
 The Feed Reader Testing is a project part of my Udacity FEND Nano Degree. Here is the description:
@@ -16,9 +10,7 @@ The project rubric is available here: [Feed Reader Testing Rubric](https://revie
 
 ## How to run
 
-To run the tests: download or clone this repo and open the `index.html` file on your browser; you can also find a live hosted version here:
-[ Feed Reader Testing Project ](https://elementh11.github.io/frontend-nanodegree-feedreader/).
-
+To run the tests: download or clone this repo and open the `index.html` file on your browser.
 
 ## Contributing
 
